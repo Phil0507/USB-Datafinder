@@ -5,7 +5,7 @@
 
 
 Global $path = @DesktopDir          ;Pfad festlegen in dem gesucht werden soll Unterordner sind eingschlossen
-Global $search = "geheim"           ;Schlüsselwort oder Endung nach der Gesucht werden soll
+Global $search = "JPG"           ;Schlüsselwort oder Endung nach der Gesucht werden soll
 
 
 
